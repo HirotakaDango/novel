@@ -27,15 +27,7 @@ A simple and lightweight novel management system.
    ```
    extension=sqlite3
    ```
-3. Create the database file:  
-   ```sh
-   touch database.sqlite
-   ```
-4. Set the correct permissions:  
-   ```sh
-   chmod 777 database.sqlite
-   ```
-5. Your SQLite database is now ready!
+3. Your website is now ready!
 
 ## Usage
 - Open `index.php` in your browser.
